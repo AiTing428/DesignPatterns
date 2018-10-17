@@ -1,0 +1,7 @@
+E:\VSProject\大话设计模式\DressUpContest\bin\Debug\DressUpContest.exe.config
+E:\VSProject\大话设计模式\DressUpContest\bin\Debug\DressUpContest.exe
+E:\VSProject\大话设计模式\DressUpContest\bin\Debug\DressUpContest.pdb
+E:\VSProject\大话设计模式\DressUpContest\obj\Debug\DressUpContest.csprojAssemblyReference.cache
+E:\VSProject\大话设计模式\DressUpContest\obj\Debug\DressUpContest.csproj.CoreCompileInputs.cache
+E:\VSProject\大话设计模式\DressUpContest\obj\Debug\DressUpContest.exe
+E:\VSProject\大话设计模式\DressUpContest\obj\Debug\DressUpContest.pdb

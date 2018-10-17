@@ -1,0 +1,10 @@
+E:\VSProject\大话设计模式\AnimalGames\bin\Debug\AnimalGames.exe.config
+E:\VSProject\大话设计模式\AnimalGames\bin\Debug\AnimalGames.exe
+E:\VSProject\大话设计模式\AnimalGames\bin\Debug\AnimalGames.pdb
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.csprojAssemblyReference.cache
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.Form1.resources
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.Properties.Resources.resources
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.csproj.GenerateResource.cache
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.csproj.CoreCompileInputs.cache
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.exe
+E:\VSProject\大话设计模式\AnimalGames\obj\Debug\AnimalGames.pdb

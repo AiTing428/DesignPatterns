@@ -1,0 +1,10 @@
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.csprojAssemblyReference.cache
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.Form1.resources
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.Properties.Resources.resources
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.csproj.GenerateResource.cache
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.csproj.CoreCompileInputs.cache
+E:\VSProject\大话设计模式\StoreCashierSoftware\bin\Debug\StoreCashierSoftware.exe.config
+E:\VSProject\大话设计模式\StoreCashierSoftware\bin\Debug\StoreCashierSoftware.exe
+E:\VSProject\大话设计模式\StoreCashierSoftware\bin\Debug\StoreCashierSoftware.pdb
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.exe
+E:\VSProject\大话设计模式\StoreCashierSoftware\obj\Debug\StoreCashierSoftware.pdb

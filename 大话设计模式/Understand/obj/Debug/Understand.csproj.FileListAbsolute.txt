@@ -1,0 +1,7 @@
+E:\VSProject\大话设计模式\Understand\bin\Debug\Understand.exe.config
+E:\VSProject\大话设计模式\Understand\bin\Debug\Understand.exe
+E:\VSProject\大话设计模式\Understand\bin\Debug\Understand.pdb
+E:\VSProject\大话设计模式\Understand\obj\Debug\Understand.csprojAssemblyReference.cache
+E:\VSProject\大话设计模式\Understand\obj\Debug\Understand.csproj.CoreCompileInputs.cache
+E:\VSProject\大话设计模式\Understand\obj\Debug\Understand.exe
+E:\VSProject\大话设计模式\Understand\obj\Debug\Understand.pdb

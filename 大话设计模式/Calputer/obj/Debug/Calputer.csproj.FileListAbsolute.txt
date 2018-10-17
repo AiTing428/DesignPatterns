@@ -1,0 +1,7 @@
+E:\VSProject\大话设计模式\Calputer\bin\Debug\Calputer.exe.config
+E:\VSProject\大话设计模式\Calputer\bin\Debug\Calputer.exe
+E:\VSProject\大话设计模式\Calputer\bin\Debug\Calputer.pdb
+E:\VSProject\大话设计模式\Calputer\obj\Debug\Calputer.exe
+E:\VSProject\大话设计模式\Calputer\obj\Debug\Calputer.pdb
+E:\VSProject\大话设计模式\Calputer\obj\Debug\Calputer.csprojAssemblyReference.cache
+E:\VSProject\大话设计模式\Calputer\obj\Debug\Calputer.csproj.CoreCompileInputs.cache

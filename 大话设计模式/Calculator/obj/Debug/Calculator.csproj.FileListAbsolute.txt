@@ -1,0 +1,6 @@
+E:\VSProject\大话设计模式\Calculator\bin\Debug\Calculator.exe.config
+E:\VSProject\大话设计模式\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\VSProject\大话设计模式\Calculator\bin\Debug\Calculator.exe
+E:\VSProject\大话设计模式\Calculator\bin\Debug\Calculator.pdb
+E:\VSProject\大话设计模式\Calculator\obj\Debug\Calculator.exe
+E:\VSProject\大话设计模式\Calculator\obj\Debug\Calculator.pdb
