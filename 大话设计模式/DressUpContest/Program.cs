@@ -13,9 +13,87 @@ namespace DressUpContest
     {
         static void Main(string[] args)
         {
+            Person p = new Person("张三");
+            Console.WriteLine("\n第一种装扮：");
+            TShirt shirt = new TShirt();
+            BigTrouser bigTrouser = new BigTrouser();
+
+            shirt.DressUp(p);
+            bigTrouser.DressUp(shirt);
+            bigTrouser.Show();
+
+            Console.Read();
         }
     }
 
+    #region 第二版（装饰模式）
+    class Person
+    {
+        public Person() { }
+
+        private string name;
+        public Person(string Name)
+        {
+            this.name = Name;
+        }
+
+        public virtual void Show()
+        {
+            Console.WriteLine("装扮的{0}", name);
+        }
+    }
+
+    /// <summary>
+    /// 抽象类
+    /// </summary>
+    abstract class Finery : Person
+    {
+        protected Person person;
+
+        //打扮
+        public void DressUp(Person p)
+        {
+            this.person = p;
+        }
+
+        public override void Show()
+        {
+            if (person != null)
+            {
+                person.Show();
+            }
+
+        }
+    }
+
+    class TShirt : Finery
+    {
+        public override void Show()
+        {
+            Console.WriteLine("大T恤");
+            base.Show();
+        }
+    }
+
+    class BigTrouser : Finery
+    {
+        public override void Show()
+        {
+            Console.WriteLine("垮裤");
+            base.Show();
+        }
+    }
+
+    class GymShoes : Finery
+    {
+        public override void Show()
+        {
+            Console.WriteLine("球鞋");
+            base.Show();
+        }
+    }
+
+    #endregion
 
     #region 第一版
     //客户端:

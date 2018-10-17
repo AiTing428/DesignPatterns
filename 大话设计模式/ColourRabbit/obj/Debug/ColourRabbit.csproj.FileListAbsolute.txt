@@ -1,0 +1,7 @@
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\bin\Debug\ColourRabbit.exe.config
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\bin\Debug\ColourRabbit.exe
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\bin\Debug\ColourRabbit.pdb
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\obj\Debug\ColourRabbit.csprojAssemblyReference.cache
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\obj\Debug\ColourRabbit.csproj.CoreCompileInputs.cache
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\obj\Debug\ColourRabbit.exe
+E:\VSProject\DesignPatterns\大话设计模式\ColourRabbit\obj\Debug\ColourRabbit.pdb
