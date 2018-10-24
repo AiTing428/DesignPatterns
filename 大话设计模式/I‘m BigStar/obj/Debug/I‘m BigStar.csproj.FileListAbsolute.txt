@@ -1,0 +1,7 @@
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\bin\Debug\I‘m BigStar.exe.config
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\bin\Debug\I‘m BigStar.exe
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\bin\Debug\I‘m BigStar.pdb
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\obj\Debug\I‘m BigStar.csprojAssemblyReference.cache
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\obj\Debug\I‘m BigStar.csproj.CoreCompileInputs.cache
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\obj\Debug\I‘m BigStar.exe
+E:\VSProject\DesignPatterns\大话设计模式\I‘m BigStar\obj\Debug\I‘m BigStar.pdb

@@ -1,0 +1,7 @@
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\VSProject\DesignPatterns\大话设计模式\ProxyPattern\obj\Debug\ProxyPattern.pdb

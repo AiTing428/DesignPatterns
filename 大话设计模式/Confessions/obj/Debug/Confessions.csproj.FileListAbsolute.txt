@@ -1,0 +1,7 @@
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\bin\Debug\Confessions.exe.config
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\bin\Debug\Confessions.exe
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\bin\Debug\Confessions.pdb
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\obj\Debug\Confessions.csprojAssemblyReference.cache
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\obj\Debug\Confessions.csproj.CoreCompileInputs.cache
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\obj\Debug\Confessions.exe
+E:\VSProject\DesignPatterns\大话设计模式\Confessions\obj\Debug\Confessions.pdb
