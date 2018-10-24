@@ -1,5 +1,7 @@
-# C#设计模式
-<center> ![](https://i.imgur.com/ZPcIGpA.jpg) </center>
+# C#设计模式  
+
+![](https://i.imgur.com/ZPcIGpA.jpg)  
+
 ## 0x00 引言    
 xxxxxxxxxxxxxxxxxxxxxxxxxxx  
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx 
